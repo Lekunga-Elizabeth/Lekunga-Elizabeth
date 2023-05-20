@@ -65,20 +65,13 @@
 
 
 
-
-
-
-
-
-
-
 <h3 align="left">Connect with me:</h3>  
 <a href="https://linkedin.com/in/lekunga elizabeth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lekunga elizabeth" height="30" width="40" /></a>
 <a href="https://fb.com/lekunga elizabeth foyabo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lekunga elizabeth foyabo" height="30" width="40" /></a>
 </p>
   
-  
-  
+
+  ![Screenshot 2023-05-20 112933 typing](https://github.com/Lekunga-Elizabeth/Lekunga-Elizabeth/assets/116527791/bb59f21d-10fa-40be-b99f-8b27b0707178)
   
   
   
